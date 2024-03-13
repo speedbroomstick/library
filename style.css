@@ -12,6 +12,7 @@ body{
     flex-direction: column;
     align-items: flex-start;
     background: linear-gradient(200deg,#c0c0c0,#373737);
+    background-attachment: fixed;
     height: 100vh;
 }
 header{
